@@ -1,7 +1,14 @@
-### Hi there 👋
+<h1 align="center"><b>Aloha Friend!<br/> Have a look around!</b></h1>
 
 <p align="center">
-    
+   <i>My name is Tyler Marefke.<br/>
+   I am a software developer fresh out of collage currently working at Digi-Key Electronics.
+   On this profile I plan to explore many new technologies and ideas.
+   As such, I am not afraid of jumping head first into the deep end of something new,
+   so if you want find new exciment please reach out!</i><br/>
+    <a href="https://www.linkedin.com/in/tyler-marefke">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-round&logo=linkedin" alt="LinkedIn">
+    </a>
 </p>
 
 ## Technology :fire:
@@ -21,14 +28,22 @@
 
 [![](https://img.shields.io/badge/asm-black?style=for-the-badge)]()
 [![](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=A8B9CC)]()
+[![](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=1572B6)]()
+[![](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=E34F26)]()
 [![](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=2C2D72)]()
 [![](https://img.shields.io/badge/haskell-black?style=for-the-badge&logo=haskell&logoColor=5D4F85)]()
 [![](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=777BB4)]()
 
-#### Frameworks
+#### Frameworks/Language Tech
 
 [![](https://img.shields.io/badge/blazor-black?style=for-the-badge&logo=blazor&logoColor=512BD4)]()
 [![](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3)]()
+[![](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=FFFFFF)]()
+[![](https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter&logoColor=F37626)]()
+[![](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui&logoColor=007FFF)]()
+[![](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=013243)]()
+[![](https://img.shields.io/badge/opencv-black?style=for-the-badge&logo=opencv&logoColor=5C3EE8)]()
+[![](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
 #### IDE/Editor/PDE
 
@@ -44,6 +59,15 @@
 [![](https://img.shields.io/badge/linuxmint-black?style=for-the-badge&logo=linux-mint&logoColor=87CF3E)]()
 [![](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=E95420)]()
 [![](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=0078D6)]()
+
+#### Other
+
+[![](https://img.shields.io/badge/azuredevops-black?style=for-the-badge&logo=azure-devops&logoColor=0078D7)]()
+[![](https://img.shields.io/badge/confluence-black?style=for-the-badge&logo=confluence&logoColor=172B4D)]()
+[![](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)]()
+[![](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=F05032)]()
+[![](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira&logoColor=0052CC)]()
+[![](https://img.shields.io/badge/k8s-black?style=for-the-badge&logo=kubernetes&logoColor=326CE5)]()
 
 ## Nerd Stats :computer:
 
