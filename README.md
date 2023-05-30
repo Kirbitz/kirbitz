@@ -1,11 +1,19 @@
 ### Hi there 👋
 
+### Nerd Stats :computer:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirbitz&theme=transparent" />
+<div style="text-align:center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirbitz&theme=aura_dark" />
+</div>
+<div style="text-align:center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirbitz&theme=aura_dark" /> 
+    &nbsp;
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirbitz&theme=aura_dark" /> 
+</div>
+<div style="text-align:center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kirbitz&theme=aura_dark&hide_border=true&card_width=700" />
+</div>
 <!--
-**Kirbitz/kirbitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
