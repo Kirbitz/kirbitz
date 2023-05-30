@@ -1,7 +1,7 @@
 <h1 align="center"><b>Welcome to my GitHub!<br/> Have a look around!</b></h1>
 
 <p align="center">
-   <b>My name is Tyler Marefke.</b><br/>
+   <b>The name is Tyler Marefke.</b><br/>
    <i>I am a software developer fresh out of collage currently working at Digi-Key Electronics.
    On this profile I plan to explore many new technologies and ideas.
    As such, I am not afraid of jumping head first into the deep end of something new,
