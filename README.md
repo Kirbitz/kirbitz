@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirbitz&theme=transparent" />
 <!--
 **Kirbitz/kirbitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
