@@ -10,9 +10,9 @@
     &nbsp;
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirbitz&theme=aura_dark" /> 
 </div>
-<div style="text-align:center">
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=kirbitz&theme=aura_dark&hide_border=true&card_width=700" />
-</div>
+</p>
 <!--
 
 - 🔭 I’m currently working on ...
