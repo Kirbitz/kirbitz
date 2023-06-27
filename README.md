@@ -16,8 +16,8 @@
 #### Languages - proficient
 
 [![](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)]()
-[![](https://img.shields.io/badge/cplusplus-black?style=for-the-badge&logo=cplusplus&logoColor=00599C)]()
-[![](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=239120)]()
+[![](https://img.shields.io/badge/c_plus_plus-black?style=for-the-badge&logo=cplusplus&logoColor=00599C)]()
+[![](https://img.shields.io/badge/c_sharp-black?style=for-the-badge&logo=csharp&logoColor=239120)]()
 [![](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)]()
 [![](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=7F52FF)]()
@@ -47,22 +47,22 @@
 
 #### IDE/Editor/PDE
 
-[![](https://img.shields.io/badge/androidstudio-black?style=for-the-badge&logo=android-studio&logoColor=3DDC84)]()
+[![](https://img.shields.io/badge/android_studio-black?style=for-the-badge&logo=android-studio&logoColor=3DDC84)]()
 [![](https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)]()
 [![](https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim&logoColor=57A143)]()
 [![](https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF)]()
-[![](https://img.shields.io/badge/visualstudio-black?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)]()
+[![](https://img.shields.io/badge/visual_studio-black?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)]()
 [![](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)]()
 
 #### OS
 
-[![](https://img.shields.io/badge/linuxmint-black?style=for-the-badge&logo=linux-mint&logoColor=87CF3E)]()
+[![](https://img.shields.io/badge/linux_mint-black?style=for-the-badge&logo=linux-mint&logoColor=87CF3E)]()
 [![](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=E95420)]()
 [![](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=0078D6)]()
 
 #### Other
 
-[![](https://img.shields.io/badge/azuredevops-black?style=for-the-badge&logo=azure-devops&logoColor=0078D7)]()
+[![](https://img.shields.io/badge/azure_devops-black?style=for-the-badge&logo=azure-devops&logoColor=0078D7)]()
 [![](https://img.shields.io/badge/confluence-black?style=for-the-badge&logo=confluence&logoColor=172B4D)]()
 [![](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)]()
 [![](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=F05032)]()
