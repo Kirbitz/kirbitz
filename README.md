@@ -5,7 +5,7 @@
    <i>I am a software developer fresh out of collage currently working at Digi-Key Electronics.
    On this profile I plan to explore many new technologies and ideas.
    As such, I am not afraid of jumping head first into the deep end of something new,
-   so if you want find new exciment please reach out!</i><br/><br/>
+   so if you want find new excitement please reach out!</i><br/><br/>
     <a href="https://www.linkedin.com/in/tyler-marefke">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-round&logo=linkedin" alt="LinkedIn">
     </a>
